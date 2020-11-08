@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on becoming open source contributor :)
 - 🌱 I’m currently learning Go, AWS and improving CS knowledge
+- 📗 I’m currently diving in Distributing Computing and very excited about this
 - 😄 Dreaming about starting my personal tech blog
 
 #### Find me around the web 🌎:
