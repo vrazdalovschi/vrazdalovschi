@@ -1,10 +1,10 @@
 ### Hi, I'm Vasile 👋
 ---
 
-#### I'm a Software Engineer with experience in [Java, Go and more] based in Chisinau, Moldova.
+#### I'm a Senior Software Engineer with experience in [Go, Python, Java and more] based in London, United Kingdom.
 
 - 🔭 I’m currently working on becoming open source contributor :)
-- 🌱 I’m currently learning Go, AWS and improving CS knowledge
+- 🌱 I’m currently taking courses in Blockchain and general Computer Science domain
 - 📗 I’m currently diving in Distributing Computing and very excited about this
 - 😄 Dreaming about starting my personal tech blog
 
