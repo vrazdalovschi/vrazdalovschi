@@ -1,16 +1,18 @@
 ### Hi, I'm Vasile 👋
+
 ---
 
-#### I'm a Senior Software Engineer with experience in [Go, Python, Java and more] based in London, United Kingdom.
+I'm a Senior Software Engineer and Technical Leader specializing in AI and Machine Learning integrations at **PSYKHE AI**, based in London, United Kingdom.
 
-- 🔭 I’m currently working on becoming open source contributor :)
-- 🌱 I’m currently taking courses in Blockchain and general Computer Science domain
-- 📗 I’m currently diving in Distributing Computing and very excited about this
-- 😄 Dreaming about starting my personal tech blog
+I'm passionate about building innovative digital solutions, contributing to open-source projects, and exploring cutting-edge technologies.
 
-#### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vasile-razdalovschi-976755157/">LinkedIn</a>
-- 💬 The favourite tool for asking question and place to help others <a href="https://stackoverflow.com/users/9601186/vasile-razdalovschi">StackOverFlow</a>
-  
-  
-![My github stats](https://github-readme-stats.vercel.app/api?username=vrazdalovschi&show_icons=true)
+### 🚀 What I'm Currently Doing
+- Developing and enhancing AI-driven recommendation systems.
+- Actively exploring Distributed Computing and advanced Machine Learning techniques.
+- Preparing to launch my personal tech blog to share insights, tutorials, and professional experiences.
+
+### 🌎 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/vasile-razdalovschi-976755157/) – Professional updates and networking
+- 💬 [Stack Overflow](https://stackoverflow.com/users/9601186/vasile-razdalovschi) – Answering questions and contributing to the developer community
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrazdalovschi&show_icons=true)
